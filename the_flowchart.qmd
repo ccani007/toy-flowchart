@@ -1,0 +1,6 @@
+---
+title: "toy_flowchart"
+format: html
+editor: visual
+---
+![](flowchart/toy_flowchart.drawio.svg)
